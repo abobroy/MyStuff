@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Spyder Editor
+Risk Parity
 
-This is a temporary script file.
+Calculates asset class weight to equalize risk contribution to portfolio
 """
 import numpy as np
 import pandas as pd
